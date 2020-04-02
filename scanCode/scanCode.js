@@ -1,4 +1,3 @@
-
 Component({
   data: {
     showModal: false,
